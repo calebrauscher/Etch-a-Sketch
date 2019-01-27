@@ -31,12 +31,12 @@
 }
 
 header {
-	background-color: red;
-	font-family: 'Cedarville Cursive', cursive;
-	font-size: 64px;
-	text-align: center;
-	padding: 10px;
-	margin: 10px;
+  background-color: red;
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 64px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
 }
 
 button {
