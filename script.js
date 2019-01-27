@@ -30,4 +30,4 @@ document.addEventListener("mouseover", function(event) {
   }
 });
 
-document.getElementById('newGame').addEventListener('click',clearGrid)
+document.getElementById('newGame').addEventListener('click',clearGrid);
